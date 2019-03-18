@@ -13,6 +13,7 @@ def def1(arr):
 
     print(result)
 
+
 arr1 = [1, 1, 3, 3, 0, 1, 1]
 def1(arr1)
 

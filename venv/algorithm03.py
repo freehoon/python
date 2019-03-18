@@ -34,6 +34,7 @@ def numCheck(num1, num2):
     print("S: {0}, B : {1}".format(s,b))
     print()
 
+
 num1 = inputNum()
 
 for idx in range(1, 10):

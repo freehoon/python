@@ -8,6 +8,7 @@ def resultChk(processes):
     return cnt
 
 
+
 processes = [93, 30, 55]
 speeds = [1, 30, 5]
 result = []
